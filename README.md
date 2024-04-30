@@ -32,6 +32,7 @@ answer, including your reasoning, to this markdown file.
 the worst case is going to be $\Theta(V+E)$ V= vertices and E= edges. This algorithm has to visit each node in the graph because the node only get added to the stack if it hasn't been visted. So you get $\theta(V)$ for visiting each node.
 the algorithm also lookks at each adjacent nodes so each edge is explored twice getting $\Theta(E)$ so the worst case would be $\Theta(V+E)$
 
+I used chatGPT to help me make the test and workflow for the action. I'm not that familiar with Github to know how to do that
 ## Bonus
 
 Implement and analyze breadth-first search.
