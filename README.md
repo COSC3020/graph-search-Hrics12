@@ -33,6 +33,7 @@ the worst case is going to be $\Theta(V+E)$ V= vertices and E= edges. This algor
 the algorithm also lookks at each adjacent nodes so each edge is explored twice getting $\Theta(E)$ so the worst case would be $\Theta(V+E)$
 
 I used chatGPT to help me make the test and workflow for the action. I'm not that familiar with Github to know how to do that
+https://aykutsarac.medium.com/graph-search-in-js-depth-first-search-3-4de691159280
 ## Bonus
 
 Implement and analyze breadth-first search.
